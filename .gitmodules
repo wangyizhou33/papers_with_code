@@ -1,0 +1,9 @@
+[submodule "vit/vit-pytorch"]
+	path = vit/vit-pytorch
+	url = https://github.com/lucidrains/vit-pytorch.git
+[submodule "detr/detr"]
+	path = detr/detr
+	url = https://github.com/facebookresearch/detr.git
+[submodule "lss/lift-splat-shoot"]
+	path = lss/lift-splat-shoot
+	url = https://github.com/nv-tlabs/lift-splat-shoot.git
