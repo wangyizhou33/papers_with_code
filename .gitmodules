@@ -7,3 +7,9 @@
 [submodule "lss/lift-splat-shoot"]
 	path = lss/lift-splat-shoot
 	url = https://github.com/nv-tlabs/lift-splat-shoot.git
+[submodule "dinov2/dinov2"]
+	path = dinov2/dinov2
+	url = https://github.com/facebookresearch/dinov2.git
+[submodule "openclip/open_clip"]
+	path = openclip/open_clip
+	url = https://github.com/mlfoundations/open_clip.git
