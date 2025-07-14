@@ -19,3 +19,9 @@
 [submodule "3dgs/gaussian-splatting"]
 	path = 3dgs/gaussian-splatting
 	url = https://github.com/graphdeco-inria/gaussian-splatting.git
+[submodule "hednet/HEDNet"]
+	path = hednet/HEDNet
+	url = https://github.com/zhanggang001/HEDNet.git
+[submodule "bevformer/BEVFormer"]
+	path = bevformer/BEVFormer
+	url = https://github.com/fundamentalvision/BEVFormer.git
