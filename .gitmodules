@@ -13,3 +13,9 @@
 [submodule "openclip/open_clip"]
 	path = openclip/open_clip
 	url = https://github.com/mlfoundations/open_clip.git
+[submodule "nerf/nerf"]
+	path = nerf/nerf
+	url = https://github.com/bmild/nerf.git
+[submodule "3dgs/gaussian-splatting"]
+	path = 3dgs/gaussian-splatting
+	url = https://github.com/graphdeco-inria/gaussian-splatting.git
