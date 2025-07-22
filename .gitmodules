@@ -25,3 +25,15 @@
 [submodule "bevformer/BEVFormer"]
 	path = bevformer/BEVFormer
 	url = https://github.com/fundamentalvision/BEVFormer.git
+[submodule "detr3d/detr3d"]
+	path = detr3d/detr3d
+	url = https://github.com/WangYueFt/detr3d.git
+[submodule "attention/attention-is-all-you-need-pytorch"]
+	path = attention/attention-is-all-you-need-pytorch
+	url = https://github.com/jadore801120/attention-is-all-you-need-pytorch.git
+[submodule "uniad/UniAD"]
+	path = uniad/UniAD
+	url = https://github.com/OpenDriveLab/UniAD.git
+[submodule "bevfusion/bevfusion"]
+	path = bevfusion/bevfusion
+	url = https://github.com/mit-han-lab/bevfusion.git
