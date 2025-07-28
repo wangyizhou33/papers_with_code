@@ -37,3 +37,6 @@
 [submodule "bevfusion/bevfusion"]
 	path = bevfusion/bevfusion
 	url = https://github.com/mit-han-lab/bevfusion.git
+[submodule "alexnet/alexnet-pytorch"]
+	path = alexnet/alexnet-pytorch
+	url = https://github.com/dansuh17/alexnet-pytorch.git
