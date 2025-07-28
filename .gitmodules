@@ -40,3 +40,6 @@
 [submodule "alexnet/alexnet-pytorch"]
 	path = alexnet/alexnet-pytorch
 	url = https://github.com/dansuh17/alexnet-pytorch.git
+[submodule "vgg/VGG-PyTorch"]
+	path = vgg/VGG-PyTorch
+	url = https://github.com/Lornatang/VGG-PyTorch.git
