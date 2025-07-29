@@ -52,3 +52,6 @@
 [submodule "vggt/vggt"]
 	path = vggt/vggt
 	url = https://github.com/facebookresearch/vggt.git
+[submodule "mtgs/MTGS"]
+	path = mtgs/MTGS
+	url = https://github.com/OpenDriveLab/MTGS.git

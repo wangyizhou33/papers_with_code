@@ -15,6 +15,7 @@ This repository contains a collection of papers and their corresponding code imp
 - [DINOv2](./dinov2/dinov2.pdf) - [GitHub](https://github.com/facebookresearch/dinov2)
 - [HEDNet](./hednet/hednet.pdf) - [GitHub](https://github.com/zhanggang001/HEDNet)
 - [Lift-Splat-Shoot](./lss/lss.pdf) - [GitHub](https://github.com/nv-tlabs/lift-splat-shoot)
+- [MTGS](./mtgs/mtgs.pdf) - [GitHub](https://github.com/OpenDriveLab/MTGS)
 - [NeRF](./nerf/nerf.pdf) - [GitHub](https://github.com/bmild/nerf)
 - [OpenCLIP](./openclip/openclip.pdf) - [GitHub](https://github.com/mlfoundations/open_clip)
 - [ResNet](./resnet/resnet.pdf) - [GitHub](https://github.com/DeepLearnPhysics/pytorch-resnet-example)
