@@ -20,6 +20,7 @@ This repository contains a collection of papers and their corresponding code imp
 - [ResNet](./resnet/resnet.pdf) - [GitHub](https://github.com/DeepLearnPhysics/pytorch-resnet-example)
 - [UniAD](./uniad/uniad.pdf) - [GitHub](https://github.com/OpenDriveLab/UniAD)
 - [VGG](./vgg/vgg.pdf) - [GitHub](https://github.com/Lornatang/VGG-PyTorch)
+- [VGGT](./vggt/vggt.pdf) - [GitHub](https://github.com/facebookresearch/vggt)
 - [Vision Transformer (ViT)](./vit/vit.pdf) - [GitHub](https://github.com/lucidrains/vit-pytorch)
 
 ## Paper implementations

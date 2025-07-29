@@ -49,3 +49,6 @@
 [submodule "difix/Difix3D"]
 	path = difix/Difix3D
 	url = https://github.com/nv-tlabs/Difix3D.git
+[submodule "vggt/vggt"]
+	path = vggt/vggt
+	url = https://github.com/facebookresearch/vggt.git
