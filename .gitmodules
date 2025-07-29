@@ -43,3 +43,6 @@
 [submodule "vgg/VGG-PyTorch"]
 	path = vgg/VGG-PyTorch
 	url = https://github.com/Lornatang/VGG-PyTorch.git
+[submodule "resnet/pytorch-resnet-example"]
+	path = resnet/pytorch-resnet-example
+	url = https://github.com/DeepLearnPhysics/pytorch-resnet-example.git
