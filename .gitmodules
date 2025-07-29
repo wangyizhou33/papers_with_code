@@ -46,3 +46,6 @@
 [submodule "resnet/pytorch-resnet-example"]
 	path = resnet/pytorch-resnet-example
 	url = https://github.com/DeepLearnPhysics/pytorch-resnet-example.git
+[submodule "difix/Difix3D"]
+	path = difix/Difix3D
+	url = https://github.com/nv-tlabs/Difix3D.git
