@@ -25,6 +25,7 @@ This repository contains a collection of papers and their corresponding code imp
 - [VGG](./vgg/vgg.pdf) - [GitHub](https://github.com/Lornatang/VGG-PyTorch)
 - [VGGT](./vggt/vggt.pdf) - [GitHub](https://github.com/facebookresearch/vggt)
 - [Vision Transformer (ViT)](./vit/vit.pdf) - [GitHub](https://github.com/lucidrains/vit-pytorch)
+- [Yolov1](./yolov1/yolov1.pdf) - [GitHub](https://github.com/motokimura/yolo_v1_pytorch)
 
 ## Paper implementations
 Clone the implementations using the command `git submodule update --init`.
