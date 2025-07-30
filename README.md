@@ -9,6 +9,7 @@ This repository contains a collection of papers and their corresponding code imp
 - [Attention Is All You Need](./attention/attention.pdf) - [GitHub](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 - [BEVFormer](./bevformer/bevformer.pdf) - [GitHub](https://github.com/fundamentalvision/BEVFormer)
 - [BEVFusion](./bevfusion/bevfusion.pdf) - [GitHub](https://github.com/mit-han-lab/bevfusion)
+- [Cosmos Dream Drive](./cosmos-dream-drive/cosmos_dream_drive.pdf) - [GitHub](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
 - [DETR](./detr/detr.pdf) - [GitHub](https://github.com/facebookresearch/detr)
 - [DETR3D](./detr3d/detr3d.pdf) - [GitHub](https://github.com/WangYueFt/detr3d)
 - [Difix3D](./difix/difix.pdf) - [GitHub](https://github.com/nv-tlabs/Difix3D)
