@@ -64,3 +64,6 @@
 [submodule "yolov1/yolo_v1_pytorch"]
 	path = yolov1/yolo_v1_pytorch
 	url = https://github.com/motokimura/yolo_v1_pytorch.git
+[submodule "controlnet/ControlNet"]
+	path = controlnet/ControlNet
+	url = https://github.com/lllyasviel/ControlNet.git
