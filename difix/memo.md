@@ -1,6 +1,9 @@
 - understand the difference between pretrained difix vs difix_ref models
-  - try difix model with ref image
-  - try difix_ref model without ref image 
+  - try difix model with ref image.  
+    no effect
+
+  - try difix_ref model without ref image.  
+    no effect
 
 - try difix3D technique with DL3DV-10K (official tutorial, colmap preprocessed) 
 
