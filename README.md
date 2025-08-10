@@ -20,6 +20,7 @@ This repository contains a collection of papers and their corresponding code imp
 - [Lift-Splat-Shoot](./lss/lss.pdf) - [GitHub](https://github.com/nv-tlabs/lift-splat-shoot)
 - [MTGS](./mtgs/mtgs.pdf) - [GitHub](https://github.com/OpenDriveLab/MTGS)
 - [NeRF](./nerf/nerf.pdf) - [GitHub](https://github.com/bmild/nerf)
+- [NeRF studio](./nerfstudio/nerfstudio.pdf) - [GitHub](https://github.com/nerfstudio-project/nerfstudio)
 - [OpenCLIP](./openclip/openclip.pdf) - [GitHub](https://github.com/mlfoundations/open_clip)
 - [ResNet](./resnet/resnet.pdf) - [GitHub](https://github.com/DeepLearnPhysics/pytorch-resnet-example)
 - [UniAD](./uniad/uniad.pdf) - [GitHub](https://github.com/OpenDriveLab/UniAD)

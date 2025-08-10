@@ -67,3 +67,6 @@
 [submodule "controlnet/ControlNet"]
 	path = controlnet/ControlNet
 	url = https://github.com/lllyasviel/ControlNet.git
+[submodule "nerfstudio/nerfstudio"]
+	path = nerfstudio/nerfstudio
+	url = https://github.com/nerfstudio-project/nerfstudio.git
