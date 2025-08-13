@@ -16,6 +16,7 @@ This repository contains a collection of papers and their corresponding code imp
 - [DETR3D](./detr3d/detr3d.pdf) - [GitHub](https://github.com/WangYueFt/detr3d)
 - [Difix3D](./difix/difix.pdf) - [GitHub](https://github.com/nv-tlabs/Difix3D)
 - [DINOv2](./dinov2/dinov2.pdf) - [GitHub](https://github.com/facebookresearch/dinov2)
+- [Gsplat](https://docs.gsplat.studio/main/) - [GitHub](https://github.com/nerfstudio-project/gsplat)
 - [HEDNet](./hednet/hednet.pdf) - [GitHub](https://github.com/zhanggang001/HEDNet)
 - [Lift-Splat-Shoot](./lss/lss.pdf) - [GitHub](https://github.com/nv-tlabs/lift-splat-shoot)
 - [MTGS](./mtgs/mtgs.pdf) - [GitHub](https://github.com/OpenDriveLab/MTGS)
