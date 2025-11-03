@@ -73,3 +73,6 @@
 [submodule "gsplat/gsplat"]
 	path = gsplat/gsplat
 	url = https://github.com/nerfstudio-project/gsplat.git
+[submodule "vae/PyTorch-VAE"]
+	path = vae/PyTorch-VAE
+	url = https://github.com/AntixK/PyTorch-VAE.git
